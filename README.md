@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[Clique aqui para acessar](https://ViniciusFer96.github.io/NLW-eSports-explorer)
+[Clique aqui para acessar o projeto](https://ViniciusFer96.github.io/NLW-eSports-explorer)
 
 ## Desafios
 - Estruturar o visual da página com HTML (Hipertext Markup Language) ;
