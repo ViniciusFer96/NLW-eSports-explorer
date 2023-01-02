@@ -21,4 +21,4 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 ## Contato
 
-https://www.linkedin.com/in/marcos-vinicius-a27a12209/
+https://www.linkedin.com/in/marcos-vinicius-ferreira-de-oliveira/
